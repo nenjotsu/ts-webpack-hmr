@@ -1,1 +1,1 @@
-# apollo-server-ts (typescript)
+# ts-webpack-hmr
