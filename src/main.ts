@@ -4,3 +4,4 @@ export const yow = () => {
 console.log('man');
 yow();
 yow();
+yow();
