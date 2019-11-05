@@ -1,7 +1,7 @@
-export const yow = () => {
-  console.log('yow man');
+const getCurrentDate = () => {
+  return new Date();
 };
-console.log('man');
-yow();
-yow();
-yow();
+
+const today = getCurrentDate();
+
+console.log(today);
