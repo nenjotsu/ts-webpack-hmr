@@ -1,4 +1,5 @@
 const getCurrentDate = () => {
+  console.log('yow');
   return new Date();
 };
 
