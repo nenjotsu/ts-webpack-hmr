@@ -1,7 +1,4 @@
-export const yow = () => {
-  console.log('yow man');
+export const today = () => {
+  console.log('Jerry Mongoloid');
 };
-console.log('man');
-yow();
-yow();
-yow();
+today();
